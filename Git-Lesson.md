@@ -30,4 +30,7 @@ Git branch new- Создание новой ветки для домашнего
 Git log -- graph- ветвления
 
 Git log- commits
+
 Git log- показывает все коммиты
+
+Git merge- это слияние веток
