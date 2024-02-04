@@ -31,3 +31,5 @@ Git log -- graph- ветвления
 
 Git log- commits
 Git log- показывает все коммиты
+
+Git merge- слияние
