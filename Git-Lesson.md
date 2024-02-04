@@ -28,3 +28,5 @@ Git branche name- Создание ветки
 Git branch new- Создание новой ветки для домашнего задания
 
 Git log -- graph- ветвления
+
+Git log- commits
