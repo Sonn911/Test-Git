@@ -34,3 +34,7 @@ Git log- commits
 Git log- показывает все коммиты
 
 Git merge- это слияние веток
+
+GitHub
+
+GitHub Lesson3
