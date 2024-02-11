@@ -18,6 +18,8 @@ Console.WriteLine(product1);
 Console.WriteLine(product2);
 Console.WriteLine(product3);
 
+int quotient = i1 / i2;
+Console.WriteLine(quotient);
 
 
 
